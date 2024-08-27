@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Kotlin and Java**
 
-- 📫 How to reach me **www.linkedin.com/in/fabiopereiraalegrem**
+- 📫 How to reach me **www.linkedin.com/in/fabiopereiraalegre**
 
 <h3 align="left">Connect with me:</h3>
  <picture><img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
