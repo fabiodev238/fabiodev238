@@ -25,7 +25,7 @@
   
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,postman,react,html,tailwind,vscode,swift,discord,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=figma,postman,react,html,tailwind,vscode,swift,discord,github,stackoverflow,androidstudio,eclipse" />
   </a>
 </p>
 
