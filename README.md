@@ -29,7 +29,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi!+I'm+Fabio!;I'm+a+Mobile+Developer...;I+like+Kotlin+especially..;Currently+studying+Swift.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi!+I'm+Fabio!;I'm+a+Mobile+Developer...📱;I+like+Kotlin+especially..;Currently+studying+Swift.)](https://git.io/typing-svg)
  
  <p align="left" >
    <a>
