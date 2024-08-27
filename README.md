@@ -3,16 +3,21 @@
 <h1 align="center">Hi 👋,  I'm Fabio Pereira Alegre</h1>
 <h3 align="center">I'm an Android Developer</h3>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 💬 Ask me about **Kotlin and Java**
 
 - 📫 How to reach me **fabiodev587@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+ <picture><img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
+  
 <p align="left">
-<a href="https://linkedin.com/in/fabiopereiraalegre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabiopereiraalegre" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -20,14 +25,16 @@
   
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,postman,react,html,tailwind,vscode,swift,discord,github,stackoverflow,gmail" />
+    <img src="https://skillicons.dev/icons?i=figma,postman,react,html,tailwind,vscode,swift,discord,github,stackoverflow" />
   </a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi!+I'm+Fabio!;I'm+a+Android+Mobile+Developer...;I+like+Kotlin+especially;And+I'm+from+Argentina.)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
-
+ 
+ 
+ <p align="left" >
+  <img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+ </p>
+ 
 </p>
 
